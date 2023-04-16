@@ -6,9 +6,9 @@ description: we are Behold The Monkey
 site-image: /WhatATheme/assets/images/meta.jpg
 site-keywords: 'Site, Template, Theme'
 favicon-url: null
-heroimage: http://localhost:4000/IMG-5480.jpg
+heroimage: /widershot.jpg
 email: something@beholdthemonkey.com
-facebook_username: beholdthemonkey
+facebook_username: Behold-The-Monkey
 twitter_username: /
 instagram_username: behold.the.monkey
 linkedin_username: /
@@ -21,7 +21,7 @@ spotify_username: /
 google-analytics: /
 disqus-shortname: /
 author-name: /
-author-image: 'http://localhost:4000/IMG-5480.jpg'
+author-image: '/close.jpg'
 author-about: >-
   We are a Stonner Rock band from Nantes, 
   et nous sommes la pour casser des culs.
