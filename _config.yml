@@ -20,12 +20,12 @@ dribbble_username: /
 spotify_username: /
 google-analytics: /
 disqus-shortname: /
-author-name: /
+author-name: Behold The Monkey
 author-image: '/close.jpg'
 author-about: >-
   We are a Stonner Rock band from Nantes, 
   et nous sommes la pour casser des culs.
-author-url: 'https://github.com/KevinAllegretti'
+author-url: 'beholdthemonkey.com'
 sass:
   sass_dir: _sass
   style: compressed
