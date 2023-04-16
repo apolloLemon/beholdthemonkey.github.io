@@ -1,5 +1,5 @@
 ---
-title: About me
+title: About Us
 layout: page
 ---
 
@@ -10,4 +10,4 @@ Members:
   Clem on Drums
   Jordan and Maths on Guitar
 
-![Me](close.jpg)
+![Us](/close.jpg)
