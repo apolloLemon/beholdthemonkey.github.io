@@ -2,6 +2,7 @@
 
 
 ## a quck guide for editing
+- _config.yml stores data (facebook name, site title, etc..)
 - all file.md in the main folder will generate a page accessible from the "More" Dropdown
 - blog posts are added to _posts, date-name.md
 
